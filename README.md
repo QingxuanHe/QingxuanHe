@@ -12,7 +12,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/qingxuanhe/count.svg) visi
 - 👯 Currently working in **Beijing, China**
 - 🤔 I like **Reading, running**
 - 📫 How to reach me: **18855613926@163.com**
-- 😄 You may like [My Blog](https://blog.csdn.net/qq_41905413?spm=1000.2115.3001.5343))
+- 😄 You may like [My Blog](https://blog.csdn.net/qq_41905413?spm=1000.2115.3001.5343)
 
 # About My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qingxuanhe)](https://github.com/qingxuanhe/github-readme-stats)
