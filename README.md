@@ -20,13 +20,11 @@ My ![Visitor Count](https://profile-counter.glitch.me/qingxuanhe/count.svg) visi
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qingxuanhe&show_icons=true&theme=tokyonight)
 
 # My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-### DeepLearning  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />   
+<table><tr><td valign="top" width="33%"> 
+<div align="center">   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" />
 </div>
 
