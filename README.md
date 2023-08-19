@@ -9,7 +9,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/qingxuanhe/count.svg) visi
 
 - 🔭 I’m currently studying on **China Agricultural University**
 - 🌱 I’m currently learning **Machine Learning and Pattern Recognition**
-- 👯 Currently working in **Beijing, China**
+- 👯 Currently living in **Beijing, China**
 - 🤔 I like **Reading, running**
 - 📫 How to reach me: **18855613926@163.com**
 - 😄 You may like [My Blog](https://blog.csdn.net/qq_41905413?spm=1000.2115.3001.5343)
